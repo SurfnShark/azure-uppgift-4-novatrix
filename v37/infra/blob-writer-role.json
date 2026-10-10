@@ -1,0 +1,10 @@
+{
+  "Name": "Novatrix Blob Writer",
+  "IsCustom": true,
+  "Description": "Skriva blobbar i Novatrix ärendecontainer. Ingen läsning eller borttagning.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": ["Microsoft.Storage/storageAccounts/blobServices/containers/blobs/write"],
+  "NotDataActions": [],
+  "AssignableScopes": []
+}

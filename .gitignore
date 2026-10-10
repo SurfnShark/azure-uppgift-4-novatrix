@@ -1,0 +1,6 @@
+v37/config.local.sh
+v37/evidence/
+*.pdf
+.env
+*.secret
+__pycache__/
